@@ -7,7 +7,7 @@ Este formato está basado en [Keep a Changelog](https://keepachangelog.com/en/1.
 ## [0.2.0] - 2025-29-01
 
 ### Added
-- Fichero CHANGELOG.md
+- Fichero Vehicle.java
 
 ## [0.1.0] - 2021-12-15
 ### Added
